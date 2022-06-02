@@ -1,5 +1,5 @@
 ## Hi there, I'm Aslanbek! 👋
-___
+
 ### :book: Currently I'm learning JavaScript at Elbrus BootCamp (Fullstack JavaScript Developer)
 
 
