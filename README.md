@@ -1,4 +1,4 @@
 ### Hi there 👋
 # I'm Aslanbek!
 
-# Currently I'm learning JavaScript at Elbrus BootCamp (Fullstack JavaScript Developer)
+# :man_technologist: Currently I'm learning JavaScript at Elbrus BootCamp (Fullstack JavaScript Developer)
