@@ -11,12 +11,4 @@ ___
 ](mailto:kaipaeff@gmail.com)
 ___
 
-### :man_technologist: Thank you for watching my profile!:wave:
-
-
-
-
-
-
-
-
+### :man_technologist: Thank you for watching my profile!
