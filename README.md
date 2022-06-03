@@ -8,12 +8,10 @@ ___
 
 ### 🔗 Links
 [![behance-3-logo 1 (1)](https://user-images.githubusercontent.com/99525626/171770322-ecc468e1-843b-40fc-9e2c-52f8a8346575.png)](https://www.behance.net/Kaipaeff)   [![Component 1 (2)](https://user-images.githubusercontent.com/99525626/171770241-79d25202-8ccf-4fde-bc6f-ef27dcb434ef.png)](https://t.me/Pofigor)   [![Group 2](https://user-images.githubusercontent.com/99525626/171772038-abfb541c-87d6-4fe9-9024-13b693d49d87.png)
-](kaipaeff@gmail.com)
+](mailto:kaipaeff@gmail.com)
 ___
 
 ### Thank you for watching my profile!:wave:
-
-You can contact me: denis.obraztsov.1@gmail.com, https://t.me/DenisObraztsov
 
 
 
