@@ -4,6 +4,5 @@
 
 
 ### :hammer_and_wrench: Skills, Technologies and Tools I'm interested in
-
-![Component 1](https://user-images.githubusercontent.com/99525626/171762016-5e3472f3-61bc-4339-8d29-ee8f8d0e5065.png)
+![Component 1 (1)](https://user-images.githubusercontent.com/99525626/171763895-a6e9c70d-2cd6-4a2b-b81d-b54234ec9d4f.png)
 
