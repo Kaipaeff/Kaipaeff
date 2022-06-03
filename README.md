@@ -3,7 +3,12 @@
 ### :book: Currently I'm learning JavaScript at Elbrus BootCamp (Fullstack JavaScript Developer)
 
 ### :hammer_and_wrench: Skills, Technologies and Tools I'm interested in
-[![Component 1 (2)](https://user-images.githubusercontent.com/99525626/171764550-339b473b-5cc9-4e86-a537-6dd8945717d6.png)](https://katherinempeterson.com/)
+![Component ](https://user-images.githubusercontent.com/99525626/171769091-97b129c8-811a-4eb9-928a-3f0fbe1eb892.png)
 
 
-### :pencil2: My Behance: www.behance.net/Kaipaeff
+### :pencil2: [(https://user-images.githubusercontent.com/99525626/171769165-97a39867-19d3-4c8b-b123-bdf83ade4c67.png)](https://www.behance.net/Kaipaeff)
+
+
+
+
+
