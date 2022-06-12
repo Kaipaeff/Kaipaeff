@@ -11,7 +11,3 @@ ___
 ](mailto:kaipaeff@gmail.com)![Group 4 (1)](https://user-images.githubusercontent.com/99525626/173226873-ebf84a2c-5b46-4a12-9c97-421633ff3cde.png) https://www.youtube.com/channel/UCrTFNQfTYiwm4dutZJR787w
 
 ### :man_technologist: Thank you for watching my profile!
-
-
-![Group 4 (1)](https://user-images.githubusercontent.com/99525626/173226546-dfaf0521-eda7-46e9-8ff6-d42972837a82.png)
-https://www.youtube.com/channel/UCrTFNQfTYiwm4dutZJR787w
