@@ -14,8 +14,11 @@ ___
 ___
 
 ### 🔗 My projects
-[![StepUp-Store](https://user-images.githubusercontent.com/99525626/188001726-f911bd85-d9dd-443f-9d39-065b6ed5d215.svg)]( https://pofigor.github.io/step-up-store) 
 #### #1 StepUp Store
+[![StepUp-Store](https://user-images.githubusercontent.com/99525626/188001726-f911bd85-d9dd-443f-9d39-065b6ed5d215.svg)]( https://pofigor.github.io/step-up-store) 
+#### #2 Sciroco
+[Sciroco.webm](https://user-images.githubusercontent.com/99525626/188206294-2da84c56-4512-42eb-a795-1337f2c12b7a.webm)
+
 ___
 
 ## :man_technologist: Thank you for watching my profile!
@@ -23,6 +26,7 @@ ___
 
 
 
-[Desktop-1662138889980.webm](https://user-images.githubusercontent.com/99525626/188205060-9b1c0b55-9e87-4b7d-bc4c-6b9e66caa215.webm)
+
+
 
 
