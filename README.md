@@ -15,8 +15,10 @@ ___
 
 ### 🔗 My projects
 [![StepUp-Store](https://user-images.githubusercontent.com/99525626/188001726-f911bd85-d9dd-443f-9d39-065b6ed5d215.svg)]( https://pofigor.github.io/step-up-store) 
-#### StepUp Store
+#### #1 StepUp Store
 ___
+
+
 
 
 ### :man_technologist: Thank you for watching my profile!
