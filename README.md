@@ -1,4 +1,4 @@
-## Hi there, nice to see you! I'm Aslanbek 👋
+## Hi there, I'm Aslanbek 👋
 ### :book: Currently I'm learning JavaScript at Elbrus BootCamp (Fullstack JavaScript Developer)
 
 ### :hammer_and_wrench: Skills, Technologies and Tools
