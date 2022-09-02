@@ -14,12 +14,13 @@ ___
 ___
 
 ### 🔗 My projects
-[![2](https://user-images.githubusercontent.com/99525626/188221880-438373cd-4dad-40d4-8cea-1562b23eff4e.jpg)](https://pofigor.github.io/step-up-store/) [![1](https://user-images.githubusercontent.com/99525626/188222111-7cab6bcf-def2-4553-a0b4-9206b4bc0fd8.jpg)](http://sciroco.herokuapp.com/)
+[![2](https://user-images.githubusercontent.com/99525626/188221880-438373cd-4dad-40d4-8cea-1562b23eff4e.jpg)](https://pofigor.github.io/step-up-store/) [![1](https://user-images.githubusercontent.com/99525626/188222457-d501bb66-e79c-4033-98cc-a55b89adc48c.jpg)](http://sciroco.herokuapp.com/)
 
 
 
 
 ___
+
 
 ## :man_technologist: Thank you for watching my profile!
 
