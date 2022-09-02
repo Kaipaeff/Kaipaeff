@@ -15,13 +15,9 @@ ___
 
 ### 🔗 My projects
 #### #1 StepUp Store 
-[![StepUp-Store](https://user-images.githubusercontent.com/99525626/188001726-f911bd85-d9dd-443f-9d39-065b6ed5d215.svg)]( https://pofigor.github.io/step-up-store)  
+![StepUp](https://user-images.githubusercontent.com/99525626/188219526-df28f932-24f8-4f06-aae5-1a9ef836a3f1.jpg)(https://pofigor.github.io/step-up-store/)
 #### #2 Sciroco 
-[![fav 1 1](https://user-images.githubusercontent.com/99525626/188212369-95f8074e-1515-4b1e-aaf3-2ad8ae71ad12.png)](http://sciroco.herokuapp.com/)
-
-
-
- file:///home/pofigor/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/StepUp.png
+![Sciroco](https://user-images.githubusercontent.com/99525626/188219580-a0d914ea-01c0-49ee-987b-ac357f181bd5.jpg)(http://sciroco.herokuapp.com/)
 
 ___
 
