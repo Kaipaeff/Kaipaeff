@@ -17,11 +17,13 @@ ___
 #### #1 StepUp Store
 [![StepUp-Store](https://user-images.githubusercontent.com/99525626/188001726-f911bd85-d9dd-443f-9d39-065b6ed5d215.svg)]( https://pofigor.github.io/step-up-store) 
 #### #2 Sciroco
-[Sciroco.webm](https://user-images.githubusercontent.com/99525626/188206294-2da84c56-4512-42eb-a795-1337f2c12b7a.webm)
+![fav 1](https://user-images.githubusercontent.com/99525626/188211855-635a84e1-f9d6-473f-92d5-5004de3a9920.png)
+
 
 ___
 
 ## :man_technologist: Thank you for watching my profile!
+
 
 
 
