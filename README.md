@@ -2,7 +2,7 @@
 ### :book: Currently I'm learning JavaScript at Elbrus BootCamp (Fullstack JavaScript Developer)
 
 ### :hammer_and_wrench: Skills, Technologies and Tools
-![Component ](https://user-images.githubusercontent.com/99525626/171769091-97b129c8-811a-4eb9-928a-3f0fbe1eb892.png)
+![Group 6](https://user-images.githubusercontent.com/99525626/188176569-9279c877-f724-4b3a-bfbb-257675f647b8.png)
 ___
 
 
