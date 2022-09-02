@@ -18,7 +18,4 @@ ___
 #### #1 StepUp Store
 ___
 
-
-
-
 ### :man_technologist: Thank you for watching my profile!
