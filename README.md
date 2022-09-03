@@ -14,7 +14,8 @@ ___
 ___
 
 ### 🔗 My projects
-[![StepUp](https://user-images.githubusercontent.com/99525626/188272158-4d4f1538-3849-4fe5-81ee-2afaf208ac00.png)](https://pofigor.github.io/step-up-store/) [![Sciroco](https://user-images.githubusercontent.com/99525626/188272191-67fc0cd3-57e6-4c86-9f10-e55e39bcf12c.png)](http://sciroco.herokuapp.com/)
+[![StepUp](https://user-images.githubusercontent.com/99525626/188272158-4d4f1538-3849-4fe5-81ee-2afaf208ac00.png)](https://pofigor.github.io/step-up-store/) [![Sciroco](https://user-images.githubusercontent.com/99525626/188272191-67fc0cd3-57e6-4c86-9f10-e55e39bcf12c.png)](http://sciroco.herokuapp.com/) ![Counter](https://user-images.githubusercontent.com/99525626/188272261-b91b5e13-5c19-4616-a05c-3bc9a108d217.png)
+
 
 
 
