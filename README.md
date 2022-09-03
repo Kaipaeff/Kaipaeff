@@ -14,8 +14,9 @@ ___
 ___
 
 ### 🔗 My projects
-[![step](https://user-images.githubusercontent.com/99525626/188272577-0bc0f1d8-effe-4a02-bd4b-b0d701e138d2.png)](https://pofigor.github.io/step-up-store/) [![sciroco](https://user-images.githubusercontent.com/99525626/188272599-a8f6d0e4-1d20-4d75-90b6-daa564bedf98.png)](http://sciroco.herokuapp.com/) [![counter](https://user-images.githubusercontent.com/99525626/188272542-b3956242-86d7-4668-a38b-029b5138689c.png)](https://pofigor.github.io/Counter/) [![Modal](https://user-images.githubusercontent.com/99525626/188285993-c5fd54dd-ff6d-44f6-8a98-7473fbbf0203.png)](https://pofigor.github.io/Modal/)
+[![step](https://user-images.githubusercontent.com/99525626/188272577-0bc0f1d8-effe-4a02-bd4b-b0d701e138d2.png)](https://pofigor.github.io/step-up-store/) [![sciroco](https://user-images.githubusercontent.com/99525626/188272599-a8f6d0e4-1d20-4d75-90b6-daa564bedf98.png)](http://sciroco.herokuapp.com/) [![counter](https://user-images.githubusercontent.com/99525626/188272542-b3956242-86d7-4668-a38b-029b5138689c.png)](https://pofigor.github.io/Counter/) [![Modal](https://user-images.githubusercontent.com/99525626/188286061-41a7f3d7-0a07-445b-b9c6-3618286ac4f4.png)](https://pofigor.github.io/Modal/)
 ___
+
 
 
 
