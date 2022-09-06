@@ -6,7 +6,7 @@
 ___
 
 
-### 🔗 Contact me:
+### Contact me:
 [![Behance](https://user-images.githubusercontent.com/99525626/173228857-8764b195-cf36-4ec9-90c6-2e6ee8d12aef.png)](https://www.behance.net/Kaipaeff) 
 [![telegram](https://user-images.githubusercontent.com/99525626/173227077-c218236b-ae2f-425d-a43f-118dcdd11e9d.png)](https://t.me/Pofigor)
 ___
@@ -16,7 +16,7 @@ ___
 ___
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
