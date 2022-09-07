@@ -2,19 +2,10 @@
 ___
 
 ### Frontend:
-- JavaScript
-- ReactJS
-- Redux
-- CSS / SCSS
-- HTML5
-- UX, UI, Bootstrap
+- JavaScript / ReactJS / Redux / HTML5 / CSS / SCSS / UX / UI / Bootstrap
 
 ### Backend:
-- Node.JS
-- Express
-- Sequalize
-- PostgreSQL
-- WebSocket 
+- Node.JS / Express / Sequalize / PostgreSQL / WebSocket 
 
 ### Other skills:
 - Git / GitHub / GitLab
