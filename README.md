@@ -8,6 +8,14 @@ ___
 - ESLint
 - SCSS / styled-components / CSS Modules
 - UI, UX, Bootstrap
+
+### Backend:
+
+- Node.JS
+- Express
+- Sequalize
+- PostgreSQL
+- WebSocket 
 ___
 
 
