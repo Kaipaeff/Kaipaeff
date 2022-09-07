@@ -8,12 +8,8 @@ ___
 - Node.JS / Express / Sequalize / PostgreSQL / WebSocket 
 
 ### Other skills:
-- Git / GitHub / GitLab
-- Jira, Confluence, Trello
-- ESLint
-- Figma
+- Git / ESLint / Jira / Confluence / Trello / Figma
 ___
-
 
 
 ### My design portfolio on [Behance](https://www.behance.net/Kaipaeff)
