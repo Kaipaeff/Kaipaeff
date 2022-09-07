@@ -1,5 +1,4 @@
-## Hi there, I'm Aslanbek 👋
-### Currently I'm learning JavaScript & React
+## Привет! Мое имя Асланбек, я фронтенд разработчик.
 ___
 
 ### Skills, Technologies and Tools:
