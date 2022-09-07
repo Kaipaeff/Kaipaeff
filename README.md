@@ -5,18 +5,24 @@ ___
 - JavaScript
 - ReactJS
 - Redux
-- ESLint
-- SCSS / styled-components / CSS Modules
-- UI, UX, Bootstrap
+- CSS / SCSS
+- HTML5
+- UX, UI, Bootstrap
 
 ### Backend:
-
 - Node.JS
 - Express
 - Sequalize
 - PostgreSQL
 - WebSocket 
+
+### Other skills:
+- Git / GitHub / GitLab
+- Jira, Confluence, Trello
+- ESLint
+- Figma
 ___
+
 
 
 ### My design portfolio on [Behance](https://www.behance.net/Kaipaeff)
