@@ -1,8 +1,13 @@
 ## Привет! Мое имя Асланбек, я фронтенд разработчик.
 ___
 
-### Skills, Technologies and Tools:
-![Group 6](https://user-images.githubusercontent.com/99525626/188176569-9279c877-f724-4b3a-bfbb-257675f647b8.png)
+### Frontend:
+- JavaScript
+- ReactJS
+- Redux
+- ESLint
+- SCSS / styled-components / CSS Modules
+- UI, UX, Bootstrap
 ___
 
 
