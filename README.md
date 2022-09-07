@@ -7,7 +7,7 @@ ___
 
 
 
-### My design portfolio on [Behance](https://www.behance.net/Kaipaeff)
+My design portfolio on [Behance](https://www.behance.net/Kaipaeff)
 
 
 ___
