@@ -1,5 +1,4 @@
 ## Hi there! I'm Aslanbek.
-___
 
 ### Frontend:
 - JavaScript / ReactJS / Redux / HTML5 / CSS / SCSS / UX / UI / Bootstrap
