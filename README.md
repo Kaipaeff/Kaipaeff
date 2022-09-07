@@ -1,5 +1,6 @@
 ## Hi there, I'm Aslanbek 👋
 ### Currently I'm learning JavaScript & React
+___
 
 ### Skills, Technologies and Tools:
 ![Group 6](https://user-images.githubusercontent.com/99525626/188176569-9279c877-f724-4b3a-bfbb-257675f647b8.png)
