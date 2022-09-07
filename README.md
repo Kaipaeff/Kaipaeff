@@ -6,7 +6,7 @@
 ___
 
 
-### :paintbrush:	Design portfolio on [![behance](https://user-images.githubusercontent.com/99525626/188846016-cd2695ee-4a7e-4857-b855-eff051ced633.png)](https://www.behance.net/Kaipaeff)
+### Design portfolio on [![behance](https://user-images.githubusercontent.com/99525626/188846016-cd2695ee-4a7e-4857-b855-eff051ced633.png)](https://www.behance.net/Kaipaeff)
 
 
 ___
