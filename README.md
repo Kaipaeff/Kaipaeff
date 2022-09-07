@@ -6,8 +6,8 @@
 ___
 
 
-### :paintbrush:	Web-design:
-[![Behance](https://user-images.githubusercontent.com/99525626/173228857-8764b195-cf36-4ec9-90c6-2e6ee8d12aef.png)](https://www.behance.net/Kaipaeff)
+### :paintbrush:	Design portfolio on [![Behance](https://user-images.githubusercontent.com/99525626/173228857-8764b195-cf36-4ec9-90c6-2e6ee8d12aef.png)](https://www.behance.net/Kaipaeff)
+
 ___
 
 ### :man_technologist:	My projects
