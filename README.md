@@ -4,10 +4,10 @@
 - JavaScript | ReactJS | Redux | HTML5 | CSS | SCSS | UX / UI | Bootstrap
 
 ### Backend:
-- Node.JS | Express | Sequalize | PostgreSQL | WebSocket 
+- Node.JS | Express | Sequalize | PostgreSQL | WebSocket | API
 
 ### Other skills:
-- Git | ESLint | Jira | Confluence | Trello | Figma
+- Git | ESLint | Jest | AJAX | Jira | Confluence | Trello | Figma
 ___
 
 
