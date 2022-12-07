@@ -17,7 +17,9 @@ ___
 
 ### My design portfolio on [Behance](https://www.behance.net/Kaipaeff)
 ___
-### My design portfolio on [Behance](![behance](https://user-images.githubusercontent.com/99525626/206226491-5ac8146b-6371-4ec4-8d89-07d8b6a7e09c.png))
+[![Photos](https://user-images.githubusercontent.com/99525626/188967136-b2b92e7d-45de-45c9-ae1e-f03ef131de32.png)](https://pofigor.github.io/Photos/)
+
+### My design portfolio on [![behance](https://user-images.githubusercontent.com/99525626/206226491-5ac8146b-6371-4ec4-8d89-07d8b6a7e09c.png)]
 
 
 
