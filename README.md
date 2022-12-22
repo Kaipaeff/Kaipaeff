@@ -9,7 +9,7 @@ Node.JS | Express | Sequalize | PostgreSQL
 ### Other skills:
 WebSocket | API | AJAX | Jest | Git | ESLint | Jira | Confluence | Trello | Figma
 
-[![codewars](https://www.codewars.com/users/Pofigor/badges/small)](https://www.codewars.com/users/Pofigor) 
+[![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
 ___
 
 ### My projects:
