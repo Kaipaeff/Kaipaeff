@@ -24,4 +24,4 @@ ___
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![codewars](https://www.codewars.com/users/pofigor/badges/small)](https://www.codewars.com/users/username) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![codewars](https://www.codewars.com/users/Pofigor/badges/small)](https://www.codewars.com/users/Pofigor) 
