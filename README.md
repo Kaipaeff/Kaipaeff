@@ -7,7 +7,7 @@ JavaScript | ReactJS | Redux | HTML5 | CSS | SCSS | UX / UI Web-Design | Bootstr
 Node.JS | Express | Sequalize | PostgreSQL
 
 ### Other skills:
-WebSocket | API | AJAX | Jest | Git | ESLint | Jira | Confluence | Trello | Figma
+API | AJAX | Git | ESLint | Trello | Figma
 
 [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
 
