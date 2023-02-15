@@ -1,13 +1,13 @@
 ## Hi there! I'm Aslanbek!
 
 ### Frontend:
-JavaScript | ReactJS | Redux | HTML5 | CSS | SCSS | UX / UI Web-Design | Bootstrap | Material UI
+JavaScript | ReactJS | Redux | HTML5 | CSS | SCSS | UX / UI Web-Design | Bootstrap | Material UI | Figma
 
 ### Backend:
 Node.JS | Express | Sequalize | PostgreSQL
 
 ### Other skills:
-API | AJAX | Git | ESLint | Trello | Figma
+API | AJAX | Git | ESLint | Trello
 
 [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
 
