@@ -17,14 +17,3 @@ ___
 ### [![Behance](https://user-images.githubusercontent.com/99525626/206294916-8994781a-9337-4ad0-b322-9b8ac16d472e.png)](https://www.behance.net/Kaipaeff)
 ___
 
-
-
-
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
