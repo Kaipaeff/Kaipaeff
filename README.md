@@ -9,7 +9,7 @@ Node.JS | Express | Sequalize | PostgreSQL
 ### Other skills:
 API | AJAX | Git | ESLint | Trello
 
-## [![myDesign](https://user-images.githubusercontent.com/99525626/219976790-d907f2fd-6c54-4083-a0f8-676416f308f6.png)](https://www.behance.net/Kaipaeff)
+# [![myDesign](https://user-images.githubusercontent.com/99525626/219976790-d907f2fd-6c54-4083-a0f8-676416f308f6.png)](https://www.behance.net/Kaipaeff)
 
 [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
 
