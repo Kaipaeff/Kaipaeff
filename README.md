@@ -1,7 +1,7 @@
 ## Hi there! I'm Aslanbek!
 
 ### Frontend:
-JavaScript | ReactJS | Redux | HTML5 | CSS | UX / UI Web-Design | Bootstrap | Material UI | Figma
+JavaScript | ReactJS | Redux | HTML | CSS | UX / UI Web-Design | Bootstrap | Material UI | Figma
 
 ### Backend:
 Node.JS | Express | Sequalize | PostgreSQL
