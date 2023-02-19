@@ -7,7 +7,7 @@ JavaScript | React | Redux | HTML | CSS | UX / UI Web-Design | Bootstrap | Mater
 Node.JS | Express | Sequalize | PostgreSQL
 
 ### Other skills:
-API | AJAX | Git | ESLint | Trello
+API | AJAX | Git | ESLint
 
 [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
 
