@@ -11,7 +11,7 @@ API | AJAX | Git | ESLint
 
 [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
 
-### Some examples:
+### Project examples:
 [![step](https://user-images.githubusercontent.com/99525626/188272577-0bc0f1d8-effe-4a02-bd4b-b0d701e138d2.png)](https://pofigor.github.io/step-up-store/) 
 [![ADBoard](https://user-images.githubusercontent.com/99525626/206294181-ffb0b035-80bb-4555-b6a2-cd0308ff22bf.png)](https://adboard.onrender.com/)
 [![todo](https://user-images.githubusercontent.com/99525626/207455026-23d5593d-9652-475c-b455-98f69c13f258.png)](https://react-todo-list-umber.vercel.app/)
