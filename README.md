@@ -9,7 +9,7 @@ Node.JS | Express | Sequalize | PostgreSQL
 ### Other skills:
 API | AJAX | Git | ESLint | Figma | Web-Design
 
-[![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor) 
+<!-- [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor)  -->
 
 ### Project examples:
 [![step](https://user-images.githubusercontent.com/99525626/188272577-0bc0f1d8-effe-4a02-bd4b-b0d701e138d2.png)](https://pofigor.github.io/step-up-store/) 
