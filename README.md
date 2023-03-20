@@ -1,7 +1,7 @@
 ## Hi there! I'm Aslanbek!
 
 ### Frontend:
-JavaScript | React | Redux | HTML | CSS | Bootstrap | Material UI
+JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
 
 ### Backend:
 Node.JS | Express | Sequalize | PostgreSQL
