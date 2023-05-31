@@ -1,4 +1,4 @@
-## Hi there! I'm Aslanbek!
+<!-- ## Hi there! I'm Aslanbek! -->
 
 ### Frontend:
 JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
