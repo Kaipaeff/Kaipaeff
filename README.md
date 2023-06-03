@@ -16,10 +16,8 @@ API | AJAX | Git | ESLint | Figma | Web-Design
 [![vashaPizza](https://user-images.githubusercontent.com/99525626/227725839-f2a5fb26-6bb5-4975-97d2-b677e9025b14.png)](https://vashapizza.vercel.app/) -->
 
 ### Figma skills:
-<!-- [![figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/d2aa43e1-3c1f-48d3-a2c8-4db5acd82580)](https://www.behance.net/Kaipaeff) -->
 [![Figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/59e291ab-a280-4785-a65d-4d07485eb762)](https://www.behance.net/Kaipaeff)
-
-<!-- ![Figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/59e291ab-a280-4785-a65d-4d07485eb762) -->
+[![My Figma skills](https://user-images.githubusercontent.com/99525626/228199441-adeb5d50-0fc7-480d-a2b5-48f37b9774a4.png)](https://www.behance.net/Kaipaeff)
 
 
 
