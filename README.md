@@ -17,4 +17,4 @@ API | AJAX | Git | ESLint | Figma | Web-Design
 
 ### Figma skills:
 <!-- [![Figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/59e291ab-a280-4785-a65d-4d07485eb762)](https://www.behance.net/Kaipaeff) -->
-[![](https://user-images.githubusercontent.com/99525626/228199441-adeb5d50-0fc7-480d-a2b5-48f37b9774a4.png)](https://www.behance.net/Kaipaeff)
+[!(https://user-images.githubusercontent.com/99525626/228199441-adeb5d50-0fc7-480d-a2b5-48f37b9774a4.png)](https://www.behance.net/Kaipaeff)
