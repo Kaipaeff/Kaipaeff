@@ -19,7 +19,7 @@ API | AJAX | Git | ESLint | Figma | Web-Design
 <!-- [![figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/d2aa43e1-3c1f-48d3-a2c8-4db5acd82580)](https://www.behance.net/Kaipaeff) -->
 [![Figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/59e291ab-a280-4785-a65d-4d07485eb762)](https://www.behance.net/Kaipaeff)
 
-<!-- ![Figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/59e291ab-a280-4785-a65d-4d07485eb762) -->
+![Figma](https://github.com/Kaipaeff/Kaipaeff/assets/99525626/59e291ab-a280-4785-a65d-4d07485eb762)
 
 
 
