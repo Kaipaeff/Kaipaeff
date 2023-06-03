@@ -19,4 +19,4 @@ API | AJAX | Git | ESLint | Figma | Web-Design
 ### Figma portfolio:
 
 <!-- [![](https://user-images.githubusercontent.com/99525626/228199441-adeb5d50-0fc7-480d-a2b5-48f37b9774a4.png)](https://www.behance.net/Kaipaeff) -->
-[![Figma]](https://www.behance.net/Kaipaeff)
+[Figma](https://www.behance.net/Kaipaeff)
