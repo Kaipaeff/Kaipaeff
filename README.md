@@ -2,9 +2,9 @@
 
 ### Frontend:
 JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
-
+<!-- 
 ### Backend:
-Node.JS | Express | Sequalize | PostgreSQL | API | AJAX
+Node.JS | Express | Sequalize | PostgreSQL | API | AJAX -->
 
 ### Other skills:
 Git | ESLint | Figma | Web-Design
