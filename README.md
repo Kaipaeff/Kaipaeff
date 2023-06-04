@@ -4,10 +4,10 @@
 JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
 
 ### Backend:
-Node.JS | Express | Sequalize | PostgreSQL
+Node.JS | Express | Sequalize | PostgreSQL | API | AJAX
 
 ### Other skills:
-API | AJAX | Git | ESLint | Figma | Web-Design
+Git | ESLint | Figma | Web-Design
 
 <!-- [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor)  -->
 
