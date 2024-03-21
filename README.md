@@ -1,13 +1,13 @@
 ## Hi there! I'm Aslanbek!
 
 ### Frontend:
-JavaScript | TypeScript | React | Redux | HTML | CSS | SCSS | Tailwind | Styled Components
+JS | TS | React | Redux | Styled Components | Tailwind
 <!-- 
 ### Backend:
 Node.JS | Express | Sequalize | PostgreSQL | API | AJAX -->
 
 ### Other skills:
-SCRUM | Jira | Confluence | Git | ESLint | Figma | Web-Design
+SCRUM | Jira | Confluence | Git | ESLint | Figma | Web-Design | UI-libs
 
 <!-- [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor)  -->
 
