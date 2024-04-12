@@ -7,7 +7,7 @@ JS | TS | React | Redux | Styled Components | Tailwind
 Node.JS | Express | Sequalize | PostgreSQL | API | AJAX -->
 
 ### Other skills:
-SCRUM | Jira | Confluence | Git | Figma | Web-Design | UI-libs
+SCRUM | Jira | Confluence | Git | Bitbucket | Figma | Web-Design | UI-libs
 
 <!-- [![codewars](https://www.codewars.com/users/Pofigor/badges/large)](https://www.codewars.com/users/Pofigor)  -->
 
