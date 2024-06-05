@@ -1,7 +1,7 @@
 ## Hi there! I'm Aslanbek!
 
 ### Frontend:
-JS | TS | React | Redux | Styled Components | Tailwind
+JS | TS | React | Redux | Styled Components
 <!-- 
 ### Backend:
 Node.JS | Express | Sequalize | PostgreSQL | API | AJAX -->
